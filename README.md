@@ -9,9 +9,9 @@
 
 
 [![](https://img.shields.io/badge/Royalbot-v1.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/ROYAL-AI/Royalbot?style=flat-square&color=yellow)](https://github.com/THE-ROYALBOT/Royalbot/stargazers)
-[![Forks](https://img.shields.io/github/forks/ROYAL-AI/Royalbot?style=flat-square&color=orange)](https://github.com/THE-ROYALBOTI/Royalbot/fork)
-[![Size](https://img.shields.io/github/repo-size/ROYAL-AI/Royalbot?style=flat-square&color=green)](https://github.com/THE-ROYALBOT/Royalbot/)   
+[![Stars](https://img.shields.io/github/stars/THE-ROYALSBOT/Royalbot?style=square&color=yellow)](https://github.com/THE-ROYALBOT/Royalbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/THE-ROYALSBOT/Royalbot?style=square&color=orange)](https://github.com/THE-ROYALBOTI/Royalbot/fork)
+[![Size](https://img.shields.io/github/repo-size/THE-ROYALSBOT/Royalbot?style=flat-square&color=green)](https://github.com/THE-ROYALBOT/Royalbot/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ROYAL-AI/Royalbot/graphs/commit-activity)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ROYAL-AI/Royalbot)
