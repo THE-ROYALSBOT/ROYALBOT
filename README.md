@@ -1,4 +1,4 @@
-[![Royalbot](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/THE-ROYALBOT/Royalbot)
+[![Royalbot](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/THE-ROYALBOT/ROYALBOT)
 
 
 <h1 align="center">
@@ -11,13 +11,13 @@
 
 
 [![](https://img.shields.io/badge/Royalbot-v1.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/ROYAL-AI/Royalbot?style=flat-square&color=yellow)](https://github.com/ROYAL-AI/Royalbot/stargazers)
-[![Forks](https://img.shields.io/github/forks/ROYAL-AI/Royalbot?style=flat-square&color=orange)](https://github.com/ROYAL-AI/Royalbot/fork)
-[![Size](https://img.shields.io/github/repo-size/ROYAL-AI/Royalbot?style=flat-square&color=green)](https://github.com/ROYAL-AI/Royalbot/)   
+[![Stars](https://img.shields.io/github/stars/ROYAL-AI/Royalbot?style=flat-square&color=yellow)](https://github.com/THE-ROYALBOT/Royalbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/ROYAL-AI/Royalbot?style=flat-square&color=orange)](https://github.com/THE-ROYALBOTI/Royalbot/fork)
+[![Size](https://img.shields.io/github/repo-size/ROYAL-AI/Royalbot?style=flat-square&color=green)](https://github.com/THE-ROYALBOT/Royalbot/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ROYAL-AI/Royalbot/graphs/commit-activity)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ROYAL-AI/Royalbot)
-[![Contributors](https://img.shields.io/github/contributors/ROYAL-AI/Royalbot?style=flat-square&color=green)](https://github.com/ROYAL-AI/Royalbot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/ROYAL-AI/Royalbot?style=flat-square&color=green)](https://github.com/THE-ROYALBOT/Royalbot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/ROYAL-AI/Royalbot/blob/main/LICENSE)   
 
@@ -25,24 +25,22 @@
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/ROYAL-AI/Royalbot/network/members"><img src="https://img.shields.io/github/forks/ROYAL-AI/Royalbot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/ROYAL-AI/Royalbot/stargazers"><img src="https://img.shields.io/github/stars/ROYAL-AI/Royalbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/ROYAL-AI/Royalbot"></a><p align="left"><a href="https://github.com/ROYAL-AI/Royalbot?"></a>
+    <a href="https://github.com/THE-ROYALBOT/Royalbot/network/members"><img src="https://img.shields.io/github/forks/ROYAL-AI/Royalbot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/THE-ROYALBOT/Royalbot/stargazers"><img src="https://img.shields.io/github/stars/THE-ROYALBOT/Royalbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/THE-ROYALBOT/Royalbot"></a><p align="left"><a href="https://github.com/THE-ROYALBOT/Royalbot?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/ROYAL_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_Royalbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BR_guild)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/The_royal_users)
 
 ------
 
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://www.youtube.com/channel/UCJh9x131aTSxV3xX6XiT8nA)
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-- Click Here :- [main repo](https://github.com/ROYAL-AI/Royalbot)
+- Click Here :- [main repo](https://github.com/THE-ROYALBOT/Royalbot)
 - Fork The Main Repo.
 - Go to Setting Of Repo.
 - Rename the Fork Repo Put Anything Example : ROYAL1BOT, HSKSBOT, ROYALOFFBOT etc...
@@ -63,7 +61,7 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/ROYAL-AI/Royalbot)](https://replit.com/@KrishnaJaiswal1/Royalbot#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/THE-ROYALBOT/Royalbot)](https://replit.com/@KrishnaJaiswal1/Royalbot#main.py)
 
 - To Get Details Of StringSession Follow Step: 
 - Go To Telegram And Search @ROYAL_SessionGeneratorBot
@@ -110,4 +108,4 @@
 </details>
 
 
-> Made with 💕 by [@Samim3316](https://t.me/Samim3316).    
+> Made with 💕 by [Samim](https://t.me/Samim3316).    
