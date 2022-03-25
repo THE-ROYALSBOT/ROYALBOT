@@ -38,7 +38,7 @@
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-- Click Here :- [main repo](https://github.com/THE-ROYALBOT/Royalbot)
+- Click Here :- [main repo](https://github.com/THE-ROYALSBOT/Royalbot)
 - Fork The Main Repo.
 - Go to Setting Of Repo.
 - Rename the Fork Repo Put Anything Example : ROYAL1BOT, HSKSBOT, ROYALOFFBOT etc...
