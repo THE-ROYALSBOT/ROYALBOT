@@ -1,0 +1,98 @@
+{
+  "name": "Royalbot",
+  "description": "Made with Love And By Python Language With Hardwork... By @Samim3316 ",
+  "logo": "https://telegra.ph/file/7aca8e594e14f51f0ce14.jpg",
+  "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "Royalbot",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/THE-ROYALSBOT/Royalbot/",
+  "website": "https://github.com/THE-ROYALSBOT/Royalbot/",
+  "success_url": "https://t.me/BR_guild",
+  "env": {
+    "ENV": {
+      "description": "Set this to ANYTHING will enable heroku.",
+      "value": "ANYTHING"
+    },
+    "ALIVE_NAME": {
+      "description": "give your name",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "ROYAL_STRING": {
+      "description": "Get this value by running https://replit.com/@Shamim3316/Royalbot#main.py",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
+      "value": ""
+    },
+    "HANDLER": {
+      "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
+      "value": ".",
+      "required": false
+    },
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable heroku.",
+      "value": "ANYTHING",
+      "required": false
+    },
+    "API_KEY": {
+      "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
+      "value": "",
+      "required": false
+    },
+    "SPAM": {
+      "description": "Required to Add Plugin Of Assistant Spam Bot (ON/OFF)",
+      "value": "",
+      "required": false
+    },
+    "APP_NAME": {
+      "description": "YOUR app name ",
+      "value": "",
+      "required": false
+    },
+    "UPSTREAM_REPO": {
+      "description": "U Can Use This To Set Own Commands To Know More About It. ask in Group",
+      "value": "Royal",
+      "required": false
+    },
+    "TZ": {
+      "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Asia/Kolkata",
+      "required": false
+    }
+  },
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+  },{
+    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+  },{
+    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+  },{
+    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+  },{
+    "url": "heroku/python"
+  }]
+}
