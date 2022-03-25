@@ -1,9 +1,9 @@
-[![Royalbot](https://te.legra.ph/file/ae3ac34ab2c55bf0c78be.jpg)](https://github.com/THE-ROYALBOT/ROYALBOT)
-
-
 <h1 align="center">
-<b> 『Royalbot』 </b>
+[![Royalbot](https://te.legra.ph/file/ae3ac34ab2c55bf0c78be.jpg)](https://github.com/THE-ROYALBOT/ROYALBOT)
 </h1>
+<h2 align="center">
+<b> 『Royalbot』 </b>
+</h2>
 
 <h6 align="center">
   <b>⚡ Presenting The Royalbot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
