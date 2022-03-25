@@ -1,4 +1,4 @@
-[![Royalbot](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/THE-ROYALBOT/ROYALBOT)
+[![Royalbot](https://te.legra.ph/file/ae3ac34ab2c55bf0c78be.jpg)](https://github.com/THE-ROYALBOT/ROYALBOT)
 
 
 <h1 align="center">
